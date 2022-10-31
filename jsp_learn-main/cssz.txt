@@ -1,0 +1,19 @@
+position 구역 형식 지정 (fixed)
+display 화면 표시 설정(flex)
+
+left 옆으로 얼마나 떨어질지
+bottom 아래로 얼마나 떨어질지
+top 위에서 얼나마 떨어질지
+
+width 길이
+height 구역 높이 
+line-height 사용할 높이
+padding-top  구역의 위에서 얼마나 떨어질지
+ 
+text-align 글을 어디에 표시할 것인지 (center)
+font-size  글 크기
+align-items 플랙스 요소 수직 방향 정렬(center)
+justify-content 플렉스 요소의 수평 방향 정렬(center)
+
+background-color 배경색
+color 색
